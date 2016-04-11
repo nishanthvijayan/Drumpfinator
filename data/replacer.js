@@ -2,8 +2,11 @@ var replacements = { // find: replace
 	'Make America Great Again': 'Make Donald Drumpf Again',
 	'MakeAmericaGreatAgain': 'MakeDonaldDrumpfAgain',
 	'makeamericagreatagain': 'makedonalddrumpfagain',
-	'realDonaldTrump': 'RealDonalDrumpf',
-	'realdonaldtrump': 'RealDonalDrumpf',
+	'@realDonaldTrump': '@RealDonalDrumpf', // Twitter handle
+	'@realdonaldtrump': '@RealDonalDrumpf', // Twitter handle
+	'RealDonaldTrump': 'RealDonaldDrumpf',
+	'realDonaldTrump': 'realDonaldDrumpf',
+	'realdonaldtrump': 'realdonalddrumpf',
 	'DonaldTrump': 'DonaldDrumpf',
 	'donaldtrump': 'donalddrumpf',
 	'DonaldJTrump': 'DonaldJDrumpf',
