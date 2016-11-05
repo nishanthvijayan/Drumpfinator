@@ -1,7 +1,7 @@
 {
   "title": "Drumpfinator Make Trump Drumpf Again",
   "name": "drumpfinator_trump",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Add this to your browser and replace all instances of Trump with Drumpf.",
   "main": "index.js",
   "author": "Nishanth Vijayan",
